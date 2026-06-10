@@ -1,4 +1,4 @@
----
+(gi "$(gp 'HKLM:\SOFTWARE\Wow6432Node\Valve\Steam' | % InstallPath)\millennium.dll").VersionInfo.FileVersion---
 order: 4
 ---
 
